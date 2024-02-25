@@ -1,0 +1,10 @@
+# Ignore compiled binaries and html files
+*.exe
+*.html
+
+# Ignore log files
+*.log
+
+# Ignore directories
+build/
+dist/
